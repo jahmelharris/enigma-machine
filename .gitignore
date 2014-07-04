@@ -1,0 +1,7 @@
+syntax:glob
+.project
+.cproject
+*.swp
+*.o
+*.d
+Debug/EnigmaMachine
